@@ -16,6 +16,7 @@ Work in progress!
 * Need to consider internals stops (maybe ignored in the alignment?) 
 * Need to consider how this scales up to large inputs. May want to remove identical sequences or cluster the sequences to reduce the input file size. 
 
+### example files
 * example input file missingcytb.fsa
 * example translated protein sequences missingcytb.pro
 * example alignments in clustal format misssingcytb_nuc.aln and missingcytb_pro.aln
