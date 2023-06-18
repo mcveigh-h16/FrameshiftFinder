@@ -17,6 +17,6 @@ Work in progress!
 * Need to consider how this scales up to large inputs. May want to remove identical sequences or cluster the sequences to reduce the input file size. 
 
 ### example files
-* input file missingcytb.fsa
-* translated protein sequences missingcytb.pro
-* alignments in clustal format misssingcytb_nuc.aln and missingcytb_pro.aln
+* input file: missingcytb.fsa
+* translated protein sequences: missingcytb.pro
+* alignments in clustal format: misssingcytb_nuc.aln and missingcytb_pro.aln
